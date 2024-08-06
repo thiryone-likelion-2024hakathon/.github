@@ -31,6 +31,15 @@
 
 **3. 환경 기여도 확인:** 자신이 구매한 상품이 얼마나 환경 보호에 기여했는지 시각적으로 확인할 수 있습니다.
 
+## :🧑‍🤝‍🧑 팀원소개
+|<img src="https://avatars.githubusercontent.com/u/112371219?v=4" width="100" height="100"/>|<img src="https://avatars.githubusercontent.com/u/105223898?v=4" width="100" height="100"/>|<img src="https://avatars.githubusercontent.com/u/121391545?v=4" width="100" height="100"/>|
+|:-:|:-:|:-:|
+|FE<br/>최윤선<br/>[@yoon630](https://github.com/yoon630)|FE<br/>전동재<br/>[@pikajae](https://github.com/pikajae)|FE<br/>장재혁<br/>[@thisjheok](https://github.com/thisjheok)|
+
+|<img src="https://avatars.githubusercontent.com/u/142724910?v=4" width="100" height="100"/>|<img src="https://avatars.githubusercontent.com/u/81301003?v=4" width="100" height="100"/>|
+|:-:|:-:|
+|BE<br/>김기현<br/>[@kihyunnn](https://github.com/kihyunnn)|BE<br/>오다솔<br/>[@fivedasol](https://github.com/fivedasol)|
+
 
 ## 💻 기술스택
 **프론트엔드:**
