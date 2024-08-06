@@ -31,7 +31,7 @@
 
 **3. 환경 기여도 확인:** 자신이 구매한 상품이 얼마나 환경 보호에 기여했는지 시각적으로 확인할 수 있습니다.
 
-## :🧑‍🤝‍🧑 팀원소개
+## 🧑‍🤝‍🧑 팀원소개
 |<img src="https://avatars.githubusercontent.com/u/112371219?v=4" width="100" height="100"/>|<img src="https://avatars.githubusercontent.com/u/105223898?v=4" width="100" height="100"/>|<img src="https://avatars.githubusercontent.com/u/121391545?v=4" width="100" height="100"/>|
 |:-:|:-:|:-:|
 |FE<br/>최윤선<br/>[@yoon630](https://github.com/yoon630)|FE<br/>전동재<br/>[@pikajae](https://github.com/pikajae)|FE<br/>장재혁<br/>[@thisjheok](https://github.com/thisjheok)|
@@ -49,6 +49,3 @@
 **백엔드:**
 
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"><img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white"><img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-
-
-
