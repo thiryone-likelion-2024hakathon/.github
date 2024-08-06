@@ -1,5 +1,5 @@
 # 🧺 떠리원: 떨이를 원하다
-![떠리원_ 떨이를 원하다_qrcode](https://github.com/user-attachments/assets/415322c5-f88f-46f6-a3e8-faabaef6650f)
+<img src="https://github.com/user-attachments/assets/b724cced-654e-4f73-ad00-6bc865824c11" width="200" height="250"/>
 
 ## 😄 서비스 소개
 가게에서 팔고 남은 식품을 더 값싼 가격에 소비자에게 판매를 할 수 있도록 돕는 서비스
