@@ -8,8 +8,6 @@
 
 **현재 서버는 종료되었습니다.**
 
-## 📂 서비스 소개 ppt
-https://drive.google.com/file/d/1koJxKLFoZgHDO1ZdGj6q-wEkM6KlJ8OF/view?usp=sharing
 
 ## 😄 서비스 소개
 식료품 가게의 유통기한 임박 식품 판매를 도와 환경을 지키는 서비스
